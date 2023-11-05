@@ -1,0 +1,50 @@
+[
+    {
+      "hoTen": "HV Nguyễn Văn A",
+      "diaChi": "104 Lý Tự Trọng P.35 Q.9",
+      "email": "NVA@gmail.com",
+      "loaiNguoiDung": "Hoc Vien",
+      
+          "diemToan": 8
+        ,
+        
+          "diemLy": 8
+        ,
+        
+          "diemHoa": 9
+        
+     
+      "id": "1"
+    },
+    {
+      "hoTen": "GV Nguyễn Văn B",
+      "diaChi": "1562 Nguyễn Văn Thủ P.KC Q.Thủ Dức",
+      "email": "NguyenVanB@gmail.com",
+      "loaiNguoiDung": "Giang Vien",
+      
+          "soNgayLamViec": 30
+        ,
+        
+          "luongTheoNgay": 100000,
+        
+      
+      "id": "2"
+    },
+    {
+      "hoTen": "KH Hoang Thi Ca",
+      "diaChi": "741 Đề Thám P",
+      "email": "email 3",
+      "loaiNguoiDung": "Khach Hang",
+      
+          "tenCongTy": "Công ty ABC"
+        ,
+        
+          "giaTriHoaDon": 123
+        ,
+        
+          "danhGia": "Khong co danh gia"
+        ,
+      
+      "id": "3"
+    }
+  ]
